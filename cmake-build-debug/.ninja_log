@@ -1,0 +1,7 @@
+# ninja log v5
+19	3337	1660645541139037335	feature_tracking/CMakeFiles/feature_tracking.dir/src/MapPoint.cpp.o	673d14428c85930e
+18	4069	1660645541871037323	feature_tracking/CMakeFiles/feature_tracking.dir/src/Frame.cpp.o	f50edf17cae65890
+9	3977	1660732806815413206	feature_tracking/CMakeFiles/feature_tracking.dir/src/Tracking.cpp.o	10e654a46e4cb79
+9	3877	1660645541679037326	feature_tracking/CMakeFiles/feature_tracking.dir/src/feature_tracking_node.cpp.o	2610d58c34dbece0
+19499	20588	1660732823423412948	devel/lib/feature_tracking/feature_tracking	8bc4a4378bc82e2c
+10	19499	1660732822323412965	feature_tracking/CMakeFiles/feature_tracking.dir/src/Optimizer.cpp.o	aaafcc6e56b62acd

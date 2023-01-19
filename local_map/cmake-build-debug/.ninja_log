@@ -1,0 +1,6 @@
+# ninja log v5
+6	2072	1660894482848111874	CMakeFiles/local_map.dir/src/KeyFrame.cpp.o	9cfbea85cf779e31
+4	2057	1660894482832111737	CMakeFiles/local_map.dir/src/LocalMap.cpp.o	3648bf4af63e5689
+6	1697	1660894482472108652	CMakeFiles/local_map.dir/src/MapPoint.cpp.o	1ad70e65e65d014e
+2150	2286	1660894483064113725	devel/lib/local_map/local_map	b7c3a2eaa8014b86
+4	2150	1660894482924112525	CMakeFiles/local_map.dir/src/local_map_node.cpp.o	2cc0dc2dd55c31b1

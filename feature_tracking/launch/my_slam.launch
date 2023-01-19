@@ -1,0 +1,11 @@
+<launch>
+    <arg name="config_path" default = "$(find feature_tracking)/../config/KITTI00-02.yaml" />
+    <arg name="ORBVoc_path" default = "$(find local_map)/../config/ORBvoc.txt" />
+
+    <node pkg="local_map" name="local_map" type="local_map" output="screen"/>
+        <param name="ORBVoc_file" type="string" value="$(arg ORBVoc_path)" />
+
+    <node pkg="feature_tracking" name="feature_tracking" type="feature_tracking" output="screen"/>
+        <param name="config_file" type="string" value="$(arg config_path)" />
+
+</launch>

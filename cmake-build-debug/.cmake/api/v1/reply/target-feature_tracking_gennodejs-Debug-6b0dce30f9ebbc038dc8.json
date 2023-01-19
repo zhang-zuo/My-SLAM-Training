@@ -1,0 +1,69 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/feature_tracking/cmake/feature_tracking-genmsg.cmake",
+			"/opt/ros/melodic/share/genmsg/cmake/genmsg-extras.cmake",
+			"feature_tracking/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 155,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 156,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "feature_tracking_generate_messages_nodejs::@9dfd26c0e8055b05e9a3"
+		}
+	],
+	"id" : "feature_tracking_gennodejs::@9dfd26c0e8055b05e9a3",
+	"name" : "feature_tracking_gennodejs",
+	"paths" : 
+	{
+		"build" : "feature_tracking",
+		"source" : "feature_tracking"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhangzuo/vo_learn/my_slam-master/src/feature_tracking/cmake-build-debug/devel/setup.sh

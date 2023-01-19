@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhangzuo/CLionProjects/demo/my_slam/my_slam-master/src/cmake-build-debug/devel/setup.sh

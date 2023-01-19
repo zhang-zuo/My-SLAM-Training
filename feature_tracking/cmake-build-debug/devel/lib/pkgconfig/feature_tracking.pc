@@ -1,0 +1,8 @@
+prefix=/home/zhangzuo/vo_learn/my_slam-master/src/feature_tracking/cmake-build-debug/devel
+
+Name: feature_tracking
+Description: Description of feature_tracking
+Version: 0.0.0
+Cflags: -I/home/zhangzuo/vo_learn/my_slam-master/src/feature_tracking/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,22 @@
+# 客户端Client
+std_msgs/Header header
+uint8 mstate
+uint32 frameId
+float32[] KF_pose
+float32[] KF_keypoints
+float32[] KF_descriptor
+float32[] KF_mappoints
+float32[] Camera_config
+# 下面的是测试使用的数据结构
+uint32 height
+uint32 width
+uint32 channel
+uint8[] image
+---
+# 服务器端Server
+std_msgs/Header header
+uint8 mstate
+uint32 frameId
+float32[] KF_pose
+float32[] KF_mappoints
+float32[] CoviewId
